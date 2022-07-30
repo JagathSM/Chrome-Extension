@@ -12,4 +12,12 @@ How users can get started with the project:
 3. Turn-on developer mode on current page, then you will see three options appear : load unpacked, pack extension, update
 4. Now click "load unpacked" and select the extracted folder that has all the files.
 5. Once done you will see "Extensions" symbol at right-top.
-6. Now click the "Leads Tracker" visible at the bottom of Extensions.
+6. Now click the "Leads Tracker" visible at the bottom of Extensions as shown below:
+
+![Extensions](https://user-images.githubusercontent.com/92943262/181996306-cc09bc68-6986-40a1-9406-de129895cc2b.jpg)
+
+7. After clicking you see a window opens as shown below:
+
+![window](https://user-images.githubusercontent.com/92943262/181996396-f3b31b4c-5995-4a06-b33b-7930117328af.jpg)
+
+
